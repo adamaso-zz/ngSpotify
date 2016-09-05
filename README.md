@@ -5,8 +5,10 @@ ngSpotify uses the [Spotify Web API](https://developer.spotify.com/web-api/) to 
 
 Eduonix states that they are in the works of supporting RC6 - but we shall see.
 
-![alt tag](screencast/screencast-1.png)
+# Screenshots
 
-![alt tag](screencast/screencast-2.png)
+![Search Bar](screencast/screencast-1.png)
 
-![alt tag](screencast/screencast-3.png)
+![Search Results](screencast/screencast-2.png)
+
+![Album Details](screencast/screencast-3.png)
