@@ -4,3 +4,9 @@ This is the fourth exercise in Eduonix's [Learn Angular 2 Development By Buildin
 ngSpotify uses the [Spotify Web API](https://developer.spotify.com/web-api/) to find artists and display albums and track listings.
 
 Eduonix states that they are in the works of supporting RC6 - but we shall see.
+
+![alt tag](screencast/screencast-1.png)
+
+![alt tag](screencast/screencast-2.png)
+
+![alt tag](screencast/screencast-3.png)
